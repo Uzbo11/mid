@@ -1,0 +1,9 @@
+создать папку и подключить к гитхабу
+solution:
+создаем папку и открываем визуал студио открываем терминал и пишем команды:
+git init 
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin your https
+git push -u origin main
